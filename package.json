@@ -19,8 +19,5 @@
   },
   "devDependencies": {
     "open": "^8.2.1"
-  },
-  "bin": {
-    "create-boilerplate": "./generate-app.js"
   }
 }
