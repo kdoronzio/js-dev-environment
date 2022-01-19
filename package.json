@@ -1,6 +1,8 @@
 {
   "name": "js-dev-environment",
   "version": "2.0.0",
+  "author": "jeremy@integratingmagic.io",
+  "license": "ISC",
   "description": "a generic development enviornment for developing JS in FileMaker",
   "scripts": {
     "start": "parcel index.html  --no-source-maps",
@@ -11,8 +13,6 @@
     "openfile": "node ./scripts/openFileOnServer",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "jeremy@integratingmagic.io",
-  "license": "ISC",
   "devDependencies": {
     "open": "^8.2.1",
     "parcel": "^2.2.0"
